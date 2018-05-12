@@ -1,0 +1,36 @@
+_repo: The-Invaders_31343
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, William Fitzgerald
+    - Jenkins, Will
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
+description: When we imagine establishing contact with an alien race, we usually assume
+  that the interstellar interlopers would be light-years ahead of us in terms of technological
+  sophistication. But what if our new alien acquaintances were astoundingly average
+  in their appearance and intellect? That's the premise of "The Invaders," a tale
+  from Murray Leinster that puts a new spin on the first contact genre of science
+  fiction.
+gutenberg_issued: '2010-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+title: The Invaders
+url: http://www.gutenberg.org/ebooks/31343
